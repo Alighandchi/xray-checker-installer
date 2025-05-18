@@ -10,7 +10,7 @@ WHITE='\033[1;37m'
 NC='\033[0m' 
 
 # Variables
-DOCKER_IMAGE="kutovoys/xray-checker"
+DOCKER_IMAGE="Alighandchi/xray-checker"
 DOCKER_COMPOSE_FILE="/opt/xray-checker/docker-compose.yml"
 INSTALL_DIR="/opt/xray-checker"
 SUBSCRIPTION_URL=""
